@@ -10,3 +10,5 @@ else {
 x = "cancel was clicked";
 }
 alert(x);
+if(x == "okay was clicked") {
+prompt("What is the answer to this riddle, what runs around your fence but doesn't move");
