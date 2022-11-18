@@ -17,7 +17,7 @@ alert("correct");
 var level2 = true
 }
 else{
-level2 = false
+var level2 = false
 }
 if(level2 == true){
   var z = prompt("What is tall when its young and short when its old?");
@@ -26,6 +26,6 @@ if(level2 == true){
   var level3 = true
   }
   else{
-  level3 = false
+  var level3 = false
   }
 }
